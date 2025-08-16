@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7b2e1f7-67c2-4e75-9bb9-e2158d673988" name="Changes" comment="primeiro commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mvps.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755289028349</updated>
       <workItem from="1755289029418" duration="5898000" />
-      <workItem from="1755296745843" duration="6698000" />
+      <workItem from="1755296745843" duration="13233000" />
     </task>
     <task id="LOCAL-00001" summary="primeiro commit">
       <option name="closed" value="true" />
